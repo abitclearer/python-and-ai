@@ -19,7 +19,7 @@ Since ChatGPT arrived in 2022, adding AI to everyday software has become one of 
 |---|---|
 | [`code/hello-python.py`](code/hello-python.py) | Program from the video |
 | [`code/hello.py`](code/hello.py) | Program from the video |
-| [`code/mistakes/hello-typo.py`](code/mistakes/hello-typo.py) | Mistake example, stops with an error on purpose: "nme" is a typo for "name", |
+| [`code/mistakes/hello-typo.py`](code/mistakes/hello-typo.py) | Mistake example, stops with an error on purpose: a typo ("nme" instead of "name") causes a NameError. |
 
 Each program ends with a `# Output:` comment showing what it prints. To run one, install Python 3 from python.org,
 then run `python <file>.py` in a terminal (on macOS and Linux: `python3 <file>.py`).
