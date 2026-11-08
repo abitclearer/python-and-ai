@@ -8,6 +8,7 @@ Every episode has a colour PDF of illustrated notes and the programs shown in th
 |---|---|---|---|
 | 01 | [Why Learn Python Now?](01-why-learn-python-now/README.md)<br><sub>Course Introduction</sub> | [PDF](01-why-learn-python-now/01-why-learn-python-now.pdf) | [code](01-why-learn-python-now/code) |
 | 02 | [What Is Python?](02-what-is-python/README.md)<br><sub>Getting Started</sub> | [PDF](02-what-is-python/02-what-is-python.pdf) | [code](02-what-is-python/code) |
+| 03 | [How to Install Python](03-how-to-install-python/README.md)<br><sub>Getting Started</sub> | [PDF](03-how-to-install-python/03-how-to-install-python.pdf) | [code](03-how-to-install-python/code) |
 
 ## Using the code
 
