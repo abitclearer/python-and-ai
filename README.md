@@ -13,6 +13,7 @@ Every episode has a colour PDF of illustrated notes and the programs shown in th
 | 05 | [PyCharm vs VS Code](05-pycharm-vs-vs-code/README.md)<br><sub>Set Up Your Python Editor</sub> | [PDF](05-pycharm-vs-vs-code/05-pycharm-vs-vs-code.pdf) | [code](05-pycharm-vs-vs-code/code) |
 | 06 | [Your First PyCharm Project](06-your-first-pycharm-project/README.md)<br><sub>Create, Write and Run Your First Program</sub> | [PDF](06-your-first-pycharm-project/06-your-first-pycharm-project.pdf) | [code](06-your-first-pycharm-project/code) |
 | 07 | [Literals and Variables](07-literals-and-variables/README.md)<br><sub>How Python Writes, Stores and Changes Data</sub> | [PDF](07-literals-and-variables/07-literals-and-variables.pdf) | [code](07-literals-and-variables/code) |
+| 08 | [Naming Variables and Swapping Values](08-naming-variables-and-swapping-values/README.md)<br><sub>Identifier Rules, PEP 8 Names and the Classic Swap</sub> | [PDF](08-naming-variables-and-swapping-values/08-naming-variables-and-swapping-values.pdf) | [code](08-naming-variables-and-swapping-values/code) |
 
 ## Using the code
 
