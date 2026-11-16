@@ -14,6 +14,7 @@ Every episode has a colour PDF of illustrated notes and the programs shown in th
 | 06 | [Your First PyCharm Project](06-your-first-pycharm-project/README.md)<br><sub>Create, Write and Run Your First Program</sub> | [PDF](06-your-first-pycharm-project/06-your-first-pycharm-project.pdf) | [code](06-your-first-pycharm-project/code) |
 | 07 | [Literals and Variables](07-literals-and-variables/README.md)<br><sub>How Python Writes, Stores and Changes Data</sub> | [PDF](07-literals-and-variables/07-literals-and-variables.pdf) | [code](07-literals-and-variables/code) |
 | 08 | [Naming Variables and Swapping Values](08-naming-variables-and-swapping-values/README.md)<br><sub>Identifier Rules, PEP 8 Names and the Classic Swap</sub> | [PDF](08-naming-variables-and-swapping-values/08-naming-variables-and-swapping-values.pdf) | [code](08-naming-variables-and-swapping-values/code) |
+| 09 | [Python Data Types and Strings](09-python-data-types-and-strings/README.md)<br><sub>type(), isinstance(), Quotes, Escapes, + and f-strings</sub> | [PDF](09-python-data-types-and-strings/09-python-data-types-and-strings.pdf) | [code](09-python-data-types-and-strings/code) |
 
 ## Using the code
 
