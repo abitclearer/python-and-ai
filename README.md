@@ -15,6 +15,7 @@ Every episode has a colour PDF of illustrated notes and the programs shown in th
 | 07 | [Literals and Variables](07-literals-and-variables/README.md)<br><sub>How Python Writes, Stores and Changes Data</sub> | [PDF](07-literals-and-variables/07-literals-and-variables.pdf) | [code](07-literals-and-variables/code) |
 | 08 | [Naming Variables and Swapping Values](08-naming-variables-and-swapping-values/README.md)<br><sub>Identifier Rules, PEP 8 Names and the Classic Swap</sub> | [PDF](08-naming-variables-and-swapping-values/08-naming-variables-and-swapping-values.pdf) | [code](08-naming-variables-and-swapping-values/code) |
 | 09 | [Python Data Types and Strings](09-python-data-types-and-strings/README.md)<br><sub>type(), isinstance(), Quotes, Escapes, + and f-strings</sub> | [PDF](09-python-data-types-and-strings/09-python-data-types-and-strings.pdf) | [code](09-python-data-types-and-strings/code) |
+| 10 | [Python Input and Type Conversion](10-python-input-and-type-conversion/README.md)<br><sub>input(), Strings from the Keyboard, int(), float() and bool()</sub> | [PDF](10-python-input-and-type-conversion/10-python-input-and-type-conversion.pdf) | [code](10-python-input-and-type-conversion/code) |
 
 ## Using the code
 
