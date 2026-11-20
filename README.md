@@ -17,6 +17,7 @@ Every episode has a colour PDF of illustrated notes and the programs shown in th
 | 09 | [Python Data Types and Strings](09-python-data-types-and-strings/README.md)<br><sub>type(), isinstance(), Quotes, Escapes, + and f-strings</sub> | [PDF](09-python-data-types-and-strings/09-python-data-types-and-strings.pdf) | [code](09-python-data-types-and-strings/code) |
 | 10 | [Python Input and Type Conversion](10-python-input-and-type-conversion/README.md)<br><sub>input(), Strings from the Keyboard, int(), float() and bool()</sub> | [PDF](10-python-input-and-type-conversion/10-python-input-and-type-conversion.pdf) | [code](10-python-input-and-type-conversion/code) |
 | 11 | [Python Operators](11-python-operators/README.md)<br><sub>Arithmetic, Assignment, Comparison and Logical Operators</sub> | [PDF](11-python-operators/11-python-operators.pdf) | [code](11-python-operators/code) |
+| 12 | [Python if Statements](12-python-if-statements/README.md)<br><sub>Conditions, Colons and Indentation</sub> | [PDF](12-python-if-statements/12-python-if-statements.pdf) | [code](12-python-if-statements/code) |
 
 ## Using the code
 
