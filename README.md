@@ -18,6 +18,7 @@ Every episode has a colour PDF of illustrated notes and the programs shown in th
 | 10 | [Python Input and Type Conversion](10-python-input-and-type-conversion/README.md)<br><sub>input(), Strings from the Keyboard, int(), float() and bool()</sub> | [PDF](10-python-input-and-type-conversion/10-python-input-and-type-conversion.pdf) | [code](10-python-input-and-type-conversion/code) |
 | 11 | [Python Operators](11-python-operators/README.md)<br><sub>Arithmetic, Assignment, Comparison and Logical Operators</sub> | [PDF](11-python-operators/11-python-operators.pdf) | [code](11-python-operators/code) |
 | 12 | [Python if Statements](12-python-if-statements/README.md)<br><sub>Conditions, Colons and Indentation</sub> | [PDF](12-python-if-statements/12-python-if-statements.pdf) | [code](12-python-if-statements/code) |
+| 13 | [Python if, else and elif](13-python-if-else-and-elif/README.md)<br><sub>Two Paths, Many Paths, Nested Paths</sub> | [PDF](13-python-if-else-and-elif/13-python-if-else-and-elif.pdf) | [code](13-python-if-else-and-elif/code) |
 
 ## Using the code
 
