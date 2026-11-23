@@ -19,6 +19,7 @@ Every episode has a colour PDF of illustrated notes and the programs shown in th
 | 11 | [Python Operators](11-python-operators/README.md)<br><sub>Arithmetic, Assignment, Comparison and Logical Operators</sub> | [PDF](11-python-operators/11-python-operators.pdf) | [code](11-python-operators/code) |
 | 12 | [Python if Statements](12-python-if-statements/README.md)<br><sub>Conditions, Colons and Indentation</sub> | [PDF](12-python-if-statements/12-python-if-statements.pdf) | [code](12-python-if-statements/code) |
 | 13 | [Python if, else and elif](13-python-if-else-and-elif/README.md)<br><sub>Two Paths, Many Paths, Nested Paths</sub> | [PDF](13-python-if-else-and-elif/13-python-if-else-and-elif.pdf) | [code](13-python-if-else-and-elif/code) |
+| 14 | [Python match case](14-python-match-case/README.md)<br><sub>One Value, Many Cases</sub> | [PDF](14-python-match-case/14-python-match-case.pdf) | [code](14-python-match-case/code) |
 
 ## Using the code
 
