@@ -20,6 +20,7 @@ Every episode has a colour PDF of illustrated notes and the programs shown in th
 | 12 | [Python if Statements](12-python-if-statements/README.md)<br><sub>Conditions, Colons and Indentation</sub> | [PDF](12-python-if-statements/12-python-if-statements.pdf) | [code](12-python-if-statements/code) |
 | 13 | [Python if, else and elif](13-python-if-else-and-elif/README.md)<br><sub>Two Paths, Many Paths, Nested Paths</sub> | [PDF](13-python-if-else-and-elif/13-python-if-else-and-elif.pdf) | [code](13-python-if-else-and-elif/code) |
 | 14 | [Python match case](14-python-match-case/README.md)<br><sub>One Value, Many Cases</sub> | [PDF](14-python-match-case/14-python-match-case.pdf) | [code](14-python-match-case/code) |
+| 15 | [Python while Loops](15-python-while-loops/README.md)<br><sub>Repeat Until It's False</sub> | [PDF](15-python-while-loops/15-python-while-loops.pdf) | [code](15-python-while-loops/code) |
 
 ## Using the code
 
