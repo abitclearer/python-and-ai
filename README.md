@@ -22,6 +22,7 @@ Every episode has a colour PDF of illustrated notes and the programs shown in th
 | 14 | [Python match case](14-python-match-case/README.md)<br><sub>One Value, Many Cases</sub> | [PDF](14-python-match-case/14-python-match-case.pdf) | [code](14-python-match-case/code) |
 | 15 | [Python while Loops](15-python-while-loops/README.md)<br><sub>Repeat Until It's False</sub> | [PDF](15-python-while-loops/15-python-while-loops.pdf) | [code](15-python-while-loops/code) |
 | 16 | [Python for Loops](16-python-for-loops/README.md)<br><sub>One Item at a Time</sub> | [PDF](16-python-for-loops/16-python-for-loops.pdf) | [code](16-python-for-loops/code) |
+| 17 | [Python Nested Loops](17-python-nested-loops/README.md)<br><sub>A Loop Inside a Loop</sub> | [PDF](17-python-nested-loops/17-python-nested-loops.pdf) | [code](17-python-nested-loops/code) |
 
 ## Using the code
 
